@@ -27,7 +27,7 @@ Basic knowledge of:
 Computer technologies faculty  
 Specialization: "software technology"  
 Qualification: programmer  
-**On the 3rd course**
+**On the 3rd course**  
 **Courses:** it.proger, scrimba
 ### English ###
 **Advanced (C1)**
