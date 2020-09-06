@@ -19,14 +19,14 @@ Basic knowledge of:
   * Web
   * React
 ### Code examples ###
-[Beer App](https://github.com/mary-jane77/beerApp)
-[Joke Generator](https://github.com/mary-jane77/JokeGenerator)
-[Quote Generator](https://github.com/mary-jane77/quoteGenerator)
+[Beer App](https://github.com/mary-jane77/beerApp)  
+[Joke Generator](https://github.com/mary-jane77/JokeGenerator)  
+[Quote Generator](https://github.com/mary-jane77/quoteGenerator)  
 ### Education and Experience ###
 **MRC branch of BSUIR**
-Computer technologies faculty
-Specialization: "software technology"
-Qualification: programmer
+Computer technologies faculty  
+Specialization: "software technology"  
+Qualification: programmer  
 **On the 3rd course**
 **Courses:** it.proger, scrimba
 ### English ###
