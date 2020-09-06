@@ -66,14 +66,35 @@ ul p {
 main {
   margin: 0px 190px;
 }
+
 section {
-  margin: 40px 0px;
+  margin: 5px 0px;
+  padding: 30px;
+  border-bottom: 3px solid #313844;
 }
+
 .section-header {
   font-size: 30px;
   margin: 10px 0px;
 }
+
 .list {
   margin: 10px 17px;
   list-style-type: circle;
+}
+.small-section  {
+  padding: 0;
+  display: grid;
+  margin: 0;
+  grid-template: auto / 35% 7.5em 35%;
+  position: relative;
+  top: -15px;
+}
+
+.skills {
+  grid-column: 1;
+}
+
+.code {
+  grid-column: 3;
 }
